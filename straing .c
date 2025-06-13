@@ -19,7 +19,7 @@ main()
 	printf("\n Your straing is:");
 	puts(str2);
 	
-		// input and out straing 
+		// input and out string 
 	printf("\n Enter your straing: ");
 	scanf("%s",str1);
 	printf("\n Entre your straing is=%s",str1);
